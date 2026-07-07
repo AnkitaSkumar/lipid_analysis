@@ -2,10 +2,6 @@
 
 Data cleaning and machine learning pipeline for analyzing lipid (fatty acid) residues extracted from Indus Valley Civilisation (IVC) pottery sherds.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-Regression-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## Table of Contents
 
